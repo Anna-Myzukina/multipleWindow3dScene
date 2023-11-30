@@ -3,6 +3,9 @@
 ## Introduction
 This project demonstrates a unique approach to creating and managing a 3D scene across multiple browser windows using Three.js and localStorage. It's designed for developers interested in advanced web graphics and window management techniques.
 
+![video]()
+(https://dms.licdn.com/playlist/vid/D5605AQF149Q-p53YIA/mp4-720p-30fp-crf28/0/1700811073506?e=1701928800&v=beta&t=L8jG5YZcXm4nYZu2iQ-TJlbPcf3YIP3BxHFMMH4smjU)
+
 ## Features
 - 3D scene creation and rendering with Three.js.
 - Synchronization of 3D scenes across multiple browser windows.
